@@ -34,7 +34,7 @@ Fact Tables: Holding quantitative, observable events (like sales transactions or
 
 Dimension Tables: Holding descriptive attributes related to the facts (like customer names, dates, or product details).
 
-![Data_model](docs/STAR_SCHEMA_Data_model.drawio.png)
+![Data_model](docs/star_schema_data_model_2.drawio.png)
 
 ### 4. Analytics & Reporting
 
