@@ -24,7 +24,7 @@ Transform it—this was the core work of cleaning, normalizing, and shaping the 
 
 Load the processed data sequentially into the Silver and Gold layers.
 
-![data_diagram](docs/Data_Flow_Diagram.drawio.png)
+![data_diagram](docs/Data_Flow_Diagram_2.drawio.png)
 
 ### 3. Data Modeling
 
