@@ -24,6 +24,8 @@ Transform it—this was the core work of cleaning, normalizing, and shaping the 
 
 Load the processed data sequentially into the Silver and Gold layers.
 
+![data_diagram](Data_Flow_Diagram.drawio.png)
+
 ### 3. Data Modeling
 
 To support analytical speed and clarity, I implemented a Dimensional Model focused on optimization. This involved developing and populating:
@@ -31,6 +33,8 @@ To support analytical speed and clarity, I implemented a Dimensional Model focus
 Fact Tables: Holding quantitative, observable events (like sales transactions or measurements).
 
 Dimension Tables: Holding descriptive attributes related to the facts (like customer names, dates, or product details).
+
+![Data_model](STAR_SCHEMA_Data_model.drawio.png)
 
 ### 4. Analytics & Reporting
 
