@@ -24,7 +24,7 @@ Transform it—this was the core work of cleaning, normalizing, and shaping the 
 
 Load the processed data sequentially into the Silver and Gold layers.
 
-![data_diagram](Data_Flow_Diagram.drawio.png)
+![data_diagram](docs/Data_Flow_Diagram.drawio.png)
 
 ### 3. Data Modeling
 
@@ -34,7 +34,7 @@ Fact Tables: Holding quantitative, observable events (like sales transactions or
 
 Dimension Tables: Holding descriptive attributes related to the facts (like customer names, dates, or product details).
 
-![Data_model](STAR_SCHEMA_Data_model.drawio.png)
+![Data_model](docs/STAR_SCHEMA_Data_model.drawio.png)
 
 ### 4. Analytics & Reporting
 
